@@ -1,0 +1,13 @@
+ Writing a Mac Changer
+ -----------------------
+We have used 3 modules of Python to bulid a mac changer.
+a) Subprocess
+ it is used to execute system commands.You can Find more imformation about
+ this module at https://docs.python.org/3.4/library/subprocess.html
+b) optparse
+ it is used to take user arguments through command line.more information at
+ https://docs.python.org/3/library/optparse.html
+c) re
+  regex used to find substrings in a bigger string
+Look at the rest of the code if you are unable to understand You can Contact me
+on Telegram Python 4r Ethical Hacking Group Dicussion.
